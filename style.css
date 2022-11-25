@@ -1,0 +1,164 @@
+.menu h1{
+margin: 20px;
+
+
+     color:chartreuse
+
+
+}
+
+body{
+background-color:burlywood;
+}
+
+.menu{
+    color: cornflowerblue;
+    display:flex;
+    background-color:darkgray;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.links ul{
+
+display: flex;
+list-style: none;
+
+}
+.links a{
+
+margin: 20px;
+text-decoration: none;
+font-size: 30px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.pick img{
+
+margin-top: 50px;
+width: 300px;
+border-radius: 50px;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contentt h2{
+   
+    font-size: 50px;
+    color:black
+
+}
+.contentt P{
+    font-size: 20px;
+    color:black}
+.contentt{
+    width: 400px;
+}
+.card {
+
+justify-content: space-around;
+align-items: center;
+text-align: center;
+display: flex;
+}
+.card-conteudo img{
+    width: 100px;
+   
+    
+}
+
+.card-conteudo{
+    
+    border-radius: 50px;
+    height: 300px;
+    width: 200px;
+    margin-top: 200px;
+    background-color:aquamarine
+  
+
+}
+.card-conteudo2 img{
+    width: 100px;
+   
+   
+}
+
+.card-conteudo2{
+    border-radius: 50px;
+    height: 300px;
+    width: 200px;
+    margin-top: 200px;
+    background-color:  orange;
+}
+.button
+{  height: 30px;
+    width: 80;
+   margin-top: 44px; 
+}
+.button2
+{  height: 30px;
+    width: 80;
+    }
+.card-conteudo3 img{
+    width: 100px;
+   
+   
+}
+
+.card-conteudo3{
+    border-radius: 50px;
+    height: 300px;
+    width: 200px;
+    margin-top: 200px;
+    background-color:  royalblue;
+}
+.button3
+{
+   margin-top: 72px; 
+   height: 30px;
+   width: 80;
+}
+.button:hover{ 
+
+    height: 35px;
+    width: 67px;
+background-color: orange;
+}
+.button2:hover{ 
+
+    height: 35px;
+    width: 67px;
+background-color: royalblue;
+}
+.button3:hover{ 
+
+    height: 35px;
+    width: 67px;
+background-color: aquamarine;
+}
+.projeto img{
+width: 830px;
+align-items: center;
+justify-content: space-around;
+display: flex;
+margin-right: 300px;
+}
+.menu2{
+    display: flex;
+    background-color: #EAF2EE
+}
+.menu3{
+    display: flex;
+    background-color: #E3EABD
+}
+.menu4{
+
+  display: flex;
+  background-color: #31333A
+}
